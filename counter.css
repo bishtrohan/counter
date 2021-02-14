@@ -1,0 +1,9 @@
+.container{
+      display: grid;
+      height: 50vh;
+    justify-items: center;
+    align-items: center; 
+}
+#count{
+    font-size: 5em;
+}
